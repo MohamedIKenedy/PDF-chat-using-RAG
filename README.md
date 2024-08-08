@@ -19,13 +19,13 @@ This project demonstrates how to build a simple question-answering system for PD
 ### Clone the Repository:
 
 
-\`\`\`bash
+```bash
 git clone <your_github_repo_url>
-\`\`\`
+
 
 
 ### Install Dependencies:
-
+```bash
 pip install -r requirements.txt  # If you have a requirements.txt file
 
 Or install individual packages as mentioned in the code comments.
