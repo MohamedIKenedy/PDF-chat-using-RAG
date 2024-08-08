@@ -18,15 +18,12 @@ This project demonstrates how to build a simple question-answering system for PD
 
 ### Clone the Repository:
 
-\`\`\`bash
+
 git clone <your_github_repo_url>
-\`\`\`
 
 ### Install Dependencies:
 
-\`\`\`bash
 pip install -r requirements.txt  # If you have a requirements.txt file
-\`\`\`
 
 Or install individual packages as mentioned in the code comments.
 
@@ -43,11 +40,10 @@ Execute the Python script or notebook to process the PDF, generate embeddings, c
 
 Use the \`qa_chain\` object to ask questions about the content of your PDF:
 
-\`\`\`python
+
 query = "What is the main conclusion of the report?"
 result = qa_chain(query)
 print(result['result'])
-\`\`\`
 
 ## Customization
 
