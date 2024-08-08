@@ -19,7 +19,9 @@ This project demonstrates how to build a simple question-answering system for PD
 ### Clone the Repository:
 
 
+```bash
 git clone <your_github_repo_url>
+
 
 ### Install Dependencies:
 
